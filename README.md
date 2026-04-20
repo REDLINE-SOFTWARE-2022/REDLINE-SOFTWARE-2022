@@ -55,6 +55,4 @@
   <a href="https://github.com/search?q=user%3AREDLINE-SOFTWARE-2022"><img src="https://img.icons8.com/color/48/search--v1.png" width="28" alt="Search"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/REDLINE-SOFTWARE-2022?tab=repositories"><img src="https://img.icons8.com/color/48/folder-invoices.png" width="28" alt="Explorer"></a> &nbsp;&nbsp;&nbsp;
   <a href="https://vscode.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="28" alt="VS Code"></a>
-  &emsp;&emsp;&emsp; ┃ &emsp;&emsp;&emsp;
-  <code>SYS 🌐 🔊 100%</code>
 </p>
